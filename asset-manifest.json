@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/industrial-intensification-sites/static/css/main.d888ff24.chunk.css",
+    "main.js": "/industrial-intensification-sites/static/js/main.d10b82e1.chunk.js",
+    "main.js.map": "/industrial-intensification-sites/static/js/main.d10b82e1.chunk.js.map",
+    "runtime-main.js": "/industrial-intensification-sites/static/js/runtime-main.251393ba.js",
+    "runtime-main.js.map": "/industrial-intensification-sites/static/js/runtime-main.251393ba.js.map",
+    "static/css/2.b35e3ce8.chunk.css": "/industrial-intensification-sites/static/css/2.b35e3ce8.chunk.css",
+    "static/js/2.7bf6da54.chunk.js": "/industrial-intensification-sites/static/js/2.7bf6da54.chunk.js",
+    "static/js/2.7bf6da54.chunk.js.map": "/industrial-intensification-sites/static/js/2.7bf6da54.chunk.js.map",
+    "index.html": "/industrial-intensification-sites/index.html",
+    "static/css/2.b35e3ce8.chunk.css.map": "/industrial-intensification-sites/static/css/2.b35e3ce8.chunk.css.map",
+    "static/css/main.d888ff24.chunk.css.map": "/industrial-intensification-sites/static/css/main.d888ff24.chunk.css.map",
+    "static/js/2.7bf6da54.chunk.js.LICENSE.txt": "/industrial-intensification-sites/static/js/2.7bf6da54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251393ba.js",
+    "static/css/2.b35e3ce8.chunk.css",
+    "static/js/2.7bf6da54.chunk.js",
+    "static/css/main.d888ff24.chunk.css",
+    "static/js/main.d10b82e1.chunk.js"
+  ]
+}
