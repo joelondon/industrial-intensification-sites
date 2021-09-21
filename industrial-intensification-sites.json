@@ -34,7 +34,7 @@
     },
     "industrial-intensification-sites": {
       "type": "geojson",
-      "data": "./industrial-intensification.geojson"
+      "data": "./industrial-intensification-sites.geojson"
     }
   },
   "sprite": "",
