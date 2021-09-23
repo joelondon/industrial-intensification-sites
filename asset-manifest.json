@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/industrial-intensification-sites/static/css/main.d888ff24.chunk.css",
-    "main.js": "/industrial-intensification-sites/static/js/main.984fdb29.chunk.js",
-    "main.js.map": "/industrial-intensification-sites/static/js/main.984fdb29.chunk.js.map",
-    "runtime-main.js": "/industrial-intensification-sites/static/js/runtime-main.251393ba.js",
-    "runtime-main.js.map": "/industrial-intensification-sites/static/js/runtime-main.251393ba.js.map",
-    "static/css/2.b35e3ce8.chunk.css": "/industrial-intensification-sites/static/css/2.b35e3ce8.chunk.css",
-    "static/js/2.64b8b149.chunk.js": "/industrial-intensification-sites/static/js/2.64b8b149.chunk.js",
-    "static/js/2.64b8b149.chunk.js.map": "/industrial-intensification-sites/static/js/2.64b8b149.chunk.js.map",
+    "main.js": "/industrial-intensification-sites/static/js/main.88b4d0e5.chunk.js",
+    "main.js.map": "/industrial-intensification-sites/static/js/main.88b4d0e5.chunk.js.map",
+    "runtime-main.js": "/industrial-intensification-sites/static/js/runtime-main.214b67b5.js",
+    "runtime-main.js.map": "/industrial-intensification-sites/static/js/runtime-main.214b67b5.js.map",
+    "static/css/2.d05d18ed.chunk.css": "/industrial-intensification-sites/static/css/2.d05d18ed.chunk.css",
+    "static/js/2.8fc4b754.chunk.js": "/industrial-intensification-sites/static/js/2.8fc4b754.chunk.js",
+    "static/js/2.8fc4b754.chunk.js.map": "/industrial-intensification-sites/static/js/2.8fc4b754.chunk.js.map",
     "index.html": "/industrial-intensification-sites/index.html",
-    "static/css/2.b35e3ce8.chunk.css.map": "/industrial-intensification-sites/static/css/2.b35e3ce8.chunk.css.map",
+    "static/css/2.d05d18ed.chunk.css.map": "/industrial-intensification-sites/static/css/2.d05d18ed.chunk.css.map",
     "static/css/main.d888ff24.chunk.css.map": "/industrial-intensification-sites/static/css/main.d888ff24.chunk.css.map",
-    "static/js/2.64b8b149.chunk.js.LICENSE.txt": "/industrial-intensification-sites/static/js/2.64b8b149.chunk.js.LICENSE.txt"
+    "static/js/2.8fc4b754.chunk.js.LICENSE.txt": "/industrial-intensification-sites/static/js/2.8fc4b754.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.251393ba.js",
-    "static/css/2.b35e3ce8.chunk.css",
-    "static/js/2.64b8b149.chunk.js",
+    "static/js/runtime-main.214b67b5.js",
+    "static/css/2.d05d18ed.chunk.css",
+    "static/js/2.8fc4b754.chunk.js",
     "static/css/main.d888ff24.chunk.css",
-    "static/js/main.984fdb29.chunk.js"
+    "static/js/main.88b4d0e5.chunk.js"
   ]
 }
