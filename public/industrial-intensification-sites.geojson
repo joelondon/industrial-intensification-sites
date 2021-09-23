@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Development": "White Hart Triangle",
+        "Borough": "Greenwich",
+        "Total floorspace m2": "48068",
+        "No. units": "11",
+        "Unit sizes from m2": "400",
+        "Unit sizes to m2": "9000",
+        "Price range from £": "16",
+        "Price range to £": "20"
+      },
+      "geometry": { "type": "Point", "coordinates": [0.097222, 51.492556] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Development": "75 Bugsby's Way",
+        "Borough": "Greenwich",
+        "Total floorspace m2": "17811",
+        "No. units": "9",
+        "Unit sizes from m2": "500",
+        "Unit sizes to m2": "2500",
+        "Price range from £": "18",
+        "Price range to £": "22"
+      },
+      "geometry": { "type": "Point", "coordinates": [0.008838, 51.491311] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Development": "Industria",
+        "Borough": "Barking & Dagenham",
+        "Total floorspace m2": "9764",
+        "No. units": "45",
+        "Unit sizes from m2": "15",
+        "Unit sizes to m2": "500",
+        "Price range from £": "15",
+        "Price range to £": "18"
+      },
+      "geometry": { "type": "Point", "coordinates": [0.098889, 51.5225] }
+    }
+  ]
+}
